@@ -7,4 +7,5 @@
 - Based on the requirements, deep or shallow copy can be used. For primitive and immutable fields, we can use a shallow copy. For mutable fields, we should  use a deep copy
 - It is suitable when the new object is slightly different from the existing object.
 - Prototype design pattern allows us to hide the complexity of creating a new object instance from the client code.
-- 
+
+![Prototype Design Pattern Diagram](./assets/prototype-design-pattern.jpg)
